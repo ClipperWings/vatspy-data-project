@@ -19319,7 +19319,7 @@ LECP|Palma (FL245-)|LEPA|LECP
 LECS|Sevilla||LECS
 LECS-NCS|Sevilla (East) - Sevilla|LECS_NCS|LECS-NCS
 LECS-SM2|Sevilla (West) - Sevilla|LECS_SM2|LECS-SM2
-LFBB|Bordeaux ACC|LFBB|LFBB
+LFBB|Bordeaux|LFBB|LFBB
 LFBB-H|Bordeaux ACC (H Sector 195+) - Bordeaux|LFBB_H|LFBB-H
 LFBB-L|Bordeaux ACC (L Sector 195+) - Bordeaux|LFBB_L|LFBB-L
 LFBB-N|Bordeaux ACC (N Sector 195+) - Bordeaux|LFBB_N|LFBB-N
@@ -19330,7 +19330,7 @@ LFBB-UN|Bordeaux ACC (North Sector 195+) - Bordeaux|LFBB_UN|LFBB-UN
 LFBB-US|Bordeaux ACC (South Sector 195+) - Bordeaux|LFBB_US|LFBB-US
 LFBB-X|Bordeaux ACC (X Sector 195+) - Bordeaux|LFBB_X|LFBB-X
 LFBB-Z|Bordeaux ACC (Z Sector 195+) - Bordeaux|LFBB_Z|LFBB-Z
-LFEE|Reims ACC|LFEE|LFEE
+LFEE|Reims|LFEE|LFEE
 LFEE-N|Reims ACC (North Sector 265+) - Reims|LFEE_N|LFEE-N
 LFEE-S|Reims ACC (South Sector) - Reims|LFEE_S|LFEE-S
 LFMM|Marseille|LFMM|LFMM
@@ -20193,3 +20193,4 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -45.0|-172.5
 -52.0|-180.0
 -90.0|-180.0
+
