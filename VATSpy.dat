@@ -19319,39 +19319,55 @@ LECP|Palma (FL245-)|LEPA|LECP
 LECS|Sevilla||LECS
 LECS-NCS|Sevilla (East) - Sevilla|LECS_NCS|LECS-NCS
 LECS-SM2|Sevilla (West) - Sevilla|LECS_SM2|LECS-SM2
-LFBB|Bordeaux||LFBB
-LFBB-UN|Bordeaux|LFBB_UN|LFBB-UN
-LFBB-US|Bordeaux|LFBB_US|LFBB-US
-LFBB-H|Bordeaux|LFBB_H|LFBB-H
-LFBB-N|Bordeaux|LFBB_N|LFBB-N
-LFBB-Z|Bordeaux|LFBB_N|LFBB-Z
-LFBB-X|Bordeaux|LFBB_N|LFBB-X
-LFBB-P|Bordeaux|LFBB_P|LFBB-P
-LFBB-R|Bordeaux|LFBB_R|LFBB-R
-LFBB-L|Bordeaux|LFBB_L|LFBB-L
-LFBB-T|Bordeaux|LFBB_T|LFBB-T
-LFEE|Reims (Covers North-East LFFF FL295+)||LFEE
-LFEE-N|Reims North (Covers North-East LFFF FL295+)|LFEE_N|LFEE-N
-LFEE-S|Reims South|LFEE_S|LFEE-S
-LFFF|Paris|PAR|LFFF
-LFFF-RPAW|Paris|PAR_RPAW|LFFF-RPAW
-LFFF-RPAE|Paris|PAR_RPAE|LFFF-RPAE
-LFFF-APTE|Paris|PAR_APTE|LFFF-APTE
-LFFF-TNTB|Paris|PAR_TNTB|LFFF-TNTB
-LFFF-HPKZ|Paris|PAR_HPKZ|LFFF-HPKZ
-LFFF-ORGY|Paris|PAR_ORGY|LFFF-ORGY
-LFFF-AOML|Paris|PAR_AOML|LFFF-AOML
-LFFF-DOGS|Paris|PAR_DOGS|LFFF-DOGS
-LFFF-LMH|Paris|PAR_LMH|LFFF-LMH
-LFFF-LMHJ|Paris|PAR_LMHJ|LFFF-LMHJ
-LFMM|Marseille||LFMM
-LFMM-N|Marseille North|LFMM_N|LFMM-N
-LFMM-E|Marseille East|LFMM_E|LFMM-E
-LFMM-NE|Marseille North East|LFMM_NE|LFMM-NE
-LFRR|Brest||LFRR
-LFRR-N|Brest North|LFRR_N|LFRR-N
-LFRR-E|Brest East (Covers West LFFF FL295+)|LFRR_E|LFRR-E
-LFUM|Marseille Upper||LFMM
+LFBB|Bordeaux ACC|LFBB|LFBB
+LFBB-H|Bordeaux ACC (H Sector 195+) - Bordeaux|LFBB_H|LFBB-H
+LFBB-L|Bordeaux ACC (L Sector 195+) - Bordeaux|LFBB_L|LFBB-L
+LFBB-N|Bordeaux ACC (N Sector 195+) - Bordeaux|LFBB_N|LFBB-N
+LFBB-P|Bordeaux ACC (P Sector 195+) - Bordeaux|LFBB_P|LFBB-P
+LFBB-R|Bordeaux ACC (R Sector 195+) - Bordeaux|LFBB_R|LFBB-R
+LFBB-T|Bordeaux ACC (T Sector 195+) - Bordeaux|LFBB_T|LFBB-T
+LFBB-UN|Bordeaux ACC (North Sector 195+) - Bordeaux|LFBB_UN|LFBB-UN
+LFBB-US|Bordeaux ACC (South Sector 195+) - Bordeaux|LFBB_US|LFBB-US
+LFBB-X|Bordeaux ACC (X Sector 195+) - Bordeaux|LFBB_X|LFBB-X
+LFBB-Z|Bordeaux ACC (Z Sector 195+) - Bordeaux|LFBB_Z|LFBB-Z
+LFEE|Reims ACC|LFEE|LFEE
+LFEE-N|Reims ACC (North Sector 265+) - Reims|LFEE_N|LFEE-N
+LFEE-S|Reims ACC (South Sector) - Reims|LFEE_S|LFEE-S
+LFMM|Marseille|LFMM|LFMM
+LFMM|Marseille|LFMM_U|LFMM
+LFMM-E|Marseille ACC (East Sector) - Marseille|LFMM_E|LFMM-E
+LFMM-E|Marseille ACC (East Sector) - Marseille|LFMM_EU|LFMM-E
+LFMM-N|Marseille ACC (North Sector) - Marseille|LFMM_N|LFMM-N
+LFMM-N|Marseille ACC (North Sector) - Marseille|LFMM_NU|LFMM-N
+LFMM-NE|Marseille ACC (North & East Combined) - Marseille|LFMM_NE|LFMM-NE
+LFRR|Brest|LFRR|LFRR
+LFRR-E|Brest ACC (East Sector 295+) - Brest|LFRR_E|LFRR-E
+LFRR-E|Brest ACC (East Sector 295+) - Brest|LFRR_UE|LFRR-E
+LFRR-G|Brest ACC (G Sector) - Brest|LFRR_G|LFRR-G
+LFRR-J|Brest ACC (J Sector) - Brest|LFRR_J|LFRR-J
+LFRR-N|Brest ACC (N Sector) - Brest|LFRR_N|LFRR-N
+LFRR-S|Brest ACC (South Sector) - Brest|LFRR_S|LFRR-S
+LFRR-S|Brest ACC (South Sector) - Brest|LFRR_US|LFRR-S
+LFRR-V|Brest ACC (V Sector) - Brest|LFRR_V|LFRR-V
+LFRR-VK|Brest ACC (V+K Combined) - Brest|LFRR_VK|LFRR-VK
+LFRR-W|Brest ACC (West Sector) - Brest|LFRR_W|LFRR-W
+PAR|Paris|PAR|PAR
+PAR-AENB|Paris ACC (AENB Sector) - Paris|PAR_AENB|PAR-AENB
+PAR-AOML|Paris ACC (AOML Sector) - Paris|PAR_AOML|PAR-AOML
+PAR-APTE|Paris ACC (APTE Sector) - Paris|PAR_APTE|PAR-APTE
+PAR-DGTJ|Paris ACC (DGTJ Sector) - Paris|PAR_DGTJ|PAR-DGTJ
+PAR-DOGS|Paris ACC (DOGS Sector) - Paris|PAR_DOGS|PAR-DOGS
+PAR-HPKZ|Paris ACC (HPKZ Sector) - Paris|PAR_HPKZ|PAR-HPKZ
+PAR-LMH|Paris ACC (LMH Sector) - Paris|PAR_LMH|PAR-LMH
+PAR-LMHJ|Paris ACC (LMHJ Sector) - Paris|PAR_LMHJ|PAR-LMHJ
+PAR-OPKZ|Paris ACC (OPKZ Sector) - Paris|PAR_OPKZ|PAR-OPKZ
+PAR-ORGY|Paris ACC (ORGY Sector) - Paris|PAR_ORGY|PAR-ORGY
+PAR-RPAE|Paris ACC (East Sector) - Paris|PAR_RPAE|PAR-RPAE
+PAR-RPAW|Paris ACC (West Sector) - Paris|PAR_RPAW|PAR-RPAW
+PAR-THUZ|Paris ACC (THUZ Sector) - Paris|PAR_THUZ|PAR-THUZ
+PAR-TNTB|Paris ACC (TNTB Sector) - Paris|PAR_TNTB|PAR-TNTB
+PAR-TP|Paris ACC (TP Sector) - Paris|PAR_TP|PAR-TP
+PAR-UJ|Paris ACC (UJ Sector) - Paris|PAR_UJ|PAR-UJ
 LGGG|Athinai||LGGG
 LGGG|Athinai ACC (Above FL325) - Athinai|LGGG_U|LGGG
 LGGG-RDS|Athinai ACC (Rodos) - Athinai|LGGG_RDS|LGGG-RDS
